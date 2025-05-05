@@ -1,5 +1,5 @@
 # showMeYourTime
-A Vencord plugin to display the users current time next to their name
+A Vencord plugin to display a users local time next to their username
 
 ## Features
 - Shows users' local time next to their username in messages
